@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="400" viewBox="0 0 400 400">
+  <rect fill="#e8f4f8" width="400" height="400"/>
+  <circle fill="#0077b6" cx="200" cy="130" r="75"/>
+  <rect fill="#0077b6" x="120" y="210" width="160" height="180" rx="20"/>
+  <circle fill="#90e0ef" cx="170" cy="160" r="8"/>
+  <circle fill="#90e0ef" cx="230" cy="160" r="8"/>
+  <rect fill="#90e0ef" x="175" y="180" width="50" height="8" rx="4"/>
+  <text x="200" y="250" font-family="Arial, sans-serif" font-size="20" fill="#fff" text-anchor="middle">Dr. Kelkar</text>
+  <text x="200" y="280" font-family="Arial, sans-serif" font-size="14" fill="#90e0ef" text-anchor="middle">Experienced Doctor</text>
+</svg>
